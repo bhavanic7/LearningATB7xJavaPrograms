@@ -1,6 +1,6 @@
 package July132024;
 
-public class LAB_Datatypes {
+public class LAB17_Datatypes {
     public static void main(String[] args) {
         /*
         Data types
