@@ -1,4 +1,4 @@
-package July7th;
+package July072024;
 
 public class LAB0016 {
     public static void main(String[] args)
@@ -10,7 +10,7 @@ public class LAB0016 {
         // Numerical is integral and floating
         // integral byte, short, int, long
         // floating is float and double
-        
+
 
     }
 }
