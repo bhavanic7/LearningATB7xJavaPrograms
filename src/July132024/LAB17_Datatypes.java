@@ -18,7 +18,8 @@ public class LAB17_Datatypes {
 
         boolean you_there = true;
         boolean you_married = false;
-        System.out.println();
+        System.out.println(you_there);
+        System.out.println(you_married);
 
         // No primitive Data Types
         // eg: String name -> "Bhavani"

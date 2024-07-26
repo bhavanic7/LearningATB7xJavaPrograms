@@ -1,6 +1,6 @@
 package July132024;
 
-public class LAB18_Bytelong {
+public class LAB18_bytelong {
     public static void main(String[] args) {
         //byte data type check
         //byte b  = 129; // this will throw error since byte can support only till 127

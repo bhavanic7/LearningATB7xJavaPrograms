@@ -11,7 +11,7 @@ public class LAB21_CharType2 {
         char grade_Bhavani = 'E';
         System.out.println("grade Bhavani: " +grade_Bhavani);
         char grade_CS = 'B';
-        System.out.println("grade CS: " +grade_Bhavani);
+        System.out.println("grade_CS: " +grade_Bhavani);
         char c = '!';
         System.out.println("C: " +c);
         char c2 = '@';

@@ -13,7 +13,7 @@ public class LAB20_CharType {
         char c2 = '\n';
         System.out.println("the next line is added" +c2);
 
-        char c3 = '\u1F6A'; //:)
+        char c3 = 'Ὢ'; //:)
         System.out.println(c3);
         // :), :(, :D .;) -> universal code chars
 
