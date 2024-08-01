@@ -1,6 +1,6 @@
 package July272024;
 
-public class LAB002 {
+public class LAB002_Array2 {
     public static void main(String[] args) {
         int [] marks_10_board = {90, 80, 70};
         // elements are fixed

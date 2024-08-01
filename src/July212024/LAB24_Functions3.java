@@ -1,6 +1,6 @@
 package July212024;
 
-public class LAB25_Functions3 {
+public class LAB24_Functions3 {
     public static void main(String[] args) {
 
         // Functions
@@ -66,8 +66,6 @@ public class LAB25_Functions3 {
         System.out.println("4. With Parameters and With Return Type");
         return a+b;
     }
-
-
 
 }
 
