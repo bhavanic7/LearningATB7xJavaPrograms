@@ -1,5 +1,7 @@
 package July212024;
 
+import java.util.Scanner;
+
 public class LAB24_Functions3 {
     public static void main(String[] args) {
 
