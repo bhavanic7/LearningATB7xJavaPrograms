@@ -1,6 +1,6 @@
-package July212024;
+package July272024;
 
-public class LAB26_LeftTriangle {
+public class LAB_LeftTriangle {
     public static void main(String[] args) {
         /*Left Triangle Star Pattern
         */
