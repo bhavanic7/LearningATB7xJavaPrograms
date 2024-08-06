@@ -6,7 +6,7 @@ public class LABSecondhighest2 {
     public static void main(String[] args) {
         int number[] = new int[8]; // creating array of int data type of length 8
         Scanner sc = new Scanner(System.in);  // user input
-        for (int i = 0; i < number.length; i++) { // i is pointing to 0 and then increases
+        for (int i = 0; i < number.length; i++) { // i is pointing to 0 and then increases, this is loop is for array
             System.out.println("Enter the numbers");
             number[i] = sc.nextInt(); // stores the user input value in the i pointing place
 
