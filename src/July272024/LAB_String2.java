@@ -18,7 +18,7 @@ public class LAB_String2 {
         System.out.println(stringBuilder);
 
         //String Buffer - mutable in nature
-        // Thread Safety? which means allotoing space for each string for a certain period of time
+        // Thread Safety? which means alloting space for each string for a certain period of time
         // before modifying it (one by one)
         // because of one by one, string buffer is slow (Syncornized)
 
