@@ -11,7 +11,7 @@ public class LABSecondhighest2 {
             number[i] = sc.nextInt(); // stores the user input value in the i pointing place
 
             for (int j = 0; j < number.length; j++) { // this loop is for  array
-                for (int k = i + 1; k > number.length; k++) { // this loop starts from 1 of number array
+                for (int k = j + 1; k > number.length; k++) { // this loop starts from 1 of number array
                     if (number[j] < number[k]) { // this condition will start comparing numbers
                         int temp = number[j]; // if j value is less than k its value will be stored in temp
                         number[j] = number[k]; // now j is empty, k value will go to j
